@@ -13,4 +13,5 @@ Dark style, 512x512, 10000 pairs (total 20k images)
 
 ### An inference sample of a fastai unet trained on this very dataset : 
 You can train your own unet by using their awesome notebook [here](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-gan.ipynb)
+
 ![v1.0.0 unet sample](https://github.com/Sxela/face2comics/blob/main/samples/face2comics_v1.0.0_unet_sample.jpg)
