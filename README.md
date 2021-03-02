@@ -5,7 +5,7 @@ This dataset contains a lot of crappy nightmare-fuelish samples, which tend to b
 
 ## v1.0.0 dataset
 Dark style, 512x512, 10000 pairs (total 20k images)
-[Download from github](https://github.com/Sxela/face2comics/releases/download/v1.0.0/face2comics_v1.0.0_by_Sxela.tar)
+[Download from github (~700Mb)](https://github.com/Sxela/face2comics/releases/download/v1.0.0/face2comics_v1.0.0_by_Sxela.tar)
 
 
 ### 2x2 dataset sample:
