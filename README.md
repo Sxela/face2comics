@@ -20,3 +20,10 @@ Dark style, 512x512, 10000 pairs (total 20k images)
 You can train your own unet by using their awesome notebook [here](https://github.com/fastai/course-v3/blob/master/nbs/dl1/lesson7-superres-gan.ipynb)
 
 ![v1.0.0 unet sample](https://github.com/Sxela/face2comics/blob/main/samples/face2comics_v1.0.0_unet_sample.jpg)
+
+# Recognition
+justinpinkney for his layer blending idea, repo and tutorials 
+https://github.com/justinpinkney/stylegan2
+
+NVlabs for their Stylegan2, of course, though I didn't use their original code 
+https://github.com/NVlabs/stylegan2
