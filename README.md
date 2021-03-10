@@ -27,3 +27,6 @@ https://github.com/justinpinkney/stylegan2
 
 NVlabs for their Stylegan2, of course, though I didn't use their original code 
 https://github.com/NVlabs/stylegan2
+
+fastai for their awesome framework and simple GAN training pipeline
+https://fast.ai
