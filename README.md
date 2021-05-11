@@ -6,8 +6,8 @@ This dataset contains a lot of crappy nightmare-fuelish samples, which tend to b
 
 ## v2.0.0 dataset
 Darkish red style, 1024x1024, 10000 pairs (total 20k images)
-[Download from github (~2Gb)](https://github.com/Sxela/face2comics/releases/download/v2.0.0/face2comics_v2.0.0_by_Sxela.tar)
-
+[Download faces from github (~1Gb)](https://github.com/Sxela/face2comics/releases/download/v2.0.0/face2comics_v2.0.0_by_Sxela_faces.tar)
+[Download comics from github (~1Gb)](https://github.com/Sxela/face2comics/releases/download/v2.0.0/face2comics_v2.0.0_by_Sxela_comics.tar)
 
 ### 2x2 dataset sample:
 ![2x2 v2.0.0 sample](https://github.com/Sxela/face2comics/blob/main/samples/face2comics_v2.0.0_by_Sxela_preview_2x2x512.jpg)
